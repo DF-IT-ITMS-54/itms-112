@@ -1,0 +1,8 @@
+{
+  "name": "ITMS-112",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "ea4d3abe"
+}
